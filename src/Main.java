@@ -20,6 +20,10 @@ public class Main {
         for (int i = 0; i < l; i++) {
             System.out.println(list.get(i));
         }
+
+
+
+
 */
 
         int max_kolvo = -1;
